@@ -1,5 +1,9 @@
-### Hi there 👋
+ [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC6kHTx_z0XmU9TFKqzvJ9TQ)](https://www.youtube.com/c/todaycode) 
+ 
+ 
+[![https://github-readme-stats.vercel.app/api?username=corazzon](https://github-readme-stats.vercel.app/api?username=corazzon)](https://github.com/corazzon/corazzon)
 
+  
 <!--
 **corazzon/corazzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
