@@ -1,4 +1,8 @@
  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC6kHTx_z0XmU9TFKqzvJ9TQ)](https://www.youtube.com/c/todaycode) 
+ 
+ 
+ [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/todaycode)](https://www.facebook.com/todaycode)
+
   
 <!--
 **corazzon/corazzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
