@@ -9,21 +9,10 @@
  * [📚 영화리뷰 감정 분석을 통한 파이썬 텍스트 분석과 자연어 처리](https://bit.ly/inflearn-nlp-tutorial)
  * [📑 캐글 설문조사로 데이터 분석 입문하기](http://bit.ly/inflearn-kaggle-survey-2020)
 
-<div style="float:left">
 <a href="https://bit.ly/inflearn-public-data-eda"><img src="https://cdn.inflearn.com/public/courses/286688/course_cover/b08e32cb-597e-4af8-9f13-fd4b0562e4fb/pje-public-data-analysis-eng-2.png" width=242></a>
-</div>
-
-<div style="float:left">
 <a href="https://bit.ly/inflearn-pandas-tutorial" style="float:left"><img src="https://cdn.inflearn.com/public/courses/324030/course_cover/159651c0-3994-463b-8ece-be3b4c52709c/pandas_bje.png" width=242></a>
-</div>
-
-<div style="float:left">
 <a href="https://bit.ly/inflearn-nlp-tutorial" style="float:left"><img src="https://cdn.inflearn.com/wp-content/uploads/review_analysis.jpg" width=242></a>
-</div>
-
-<div style="float:left">
 <a href="http://bit.ly/inflearn-kaggle-survey-2020" style="float:left"><img src="https://cdn.inflearn.com/public/courses/326366/cover/972de19c-79c3-4f2f-a4d4-472f301127f9" width=242></a>
-</div>
 
 
 
