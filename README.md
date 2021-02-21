@@ -13,13 +13,13 @@
 #### 기상청 날씨마루
 * 🌦 [Python 교육 동영상](https://bd.kma.go.kr/kma2020/dta/edu/KBP57200_R_V.do?pageNum=5&menuCd=F040302000)
 
-<a href="https://bit.ly/inflearn-public-data-eda"><img src="https://cdn.inflearn.com/public/courses/286688/course_cover/b08e32cb-597e-4af8-9f13-fd4b0562e4fb/pje-public-data-analysis-eng-2.png" width=242></a>
-<a href="https://bit.ly/inflearn-pandas-tutorial" style="float:left"><img src="https://cdn.inflearn.com/public/courses/324030/course_cover/159651c0-3994-463b-8ece-be3b4c52709c/pandas_bje.png" width=242></a>
+<a href="https://github.com/corazzon/open-data-analysis-basic"><img src="https://cdn.inflearn.com/public/courses/286688/course_cover/b08e32cb-597e-4af8-9f13-fd4b0562e4fb/pje-public-data-analysis-eng-2.png" width=242></a>
+<a href="https://github.com/corazzon/cracking-the-pandas-cheat-sheet" style="float:left"><img src="https://cdn.inflearn.com/public/courses/324030/course_cover/159651c0-3994-463b-8ece-be3b4c52709c/pandas_bje.png" width=242></a>
 <a href="https://bit.ly/inflearn-nlp-tutorial" style="float:left"><img src="https://cdn.inflearn.com/wp-content/uploads/review_analysis.jpg" width=242></a>
 <a href="http://bit.ly/inflearn-kaggle-survey-2020" style="float:left"><img src="https://cdn.inflearn.com/public/courses/326366/cover/972de19c-79c3-4f2f-a4d4-472f301127f9" width=242></a>
 <a href="https://www.boostcourse.org/ds112"><img src="https://cphinf.pstatic.net/mooc/20191227_233/1577431798875Knuvv_PNG/DS_01.png" width=242></a>
 <a href="https://www.boostcourse.org/ds214"><img src="https://cphinf.pstatic.net/mooc/20191227_26/1577431767923iWndp_PNG/DS_02.png" width=242></a>
-<a href="https://bd.kma.go.kr/kma2020/dta/edu/KBP57200_R_V.do?pageNum=5&menuCd=F040302000"><img src="https://i.imgur.com/3v7ctIh.png" width=242></a>
+<a href="https://github.com/corazzon/kma-weather-python"><img src="https://i.imgur.com/r1PBGNm.png" width=242></a>
 
 
 
