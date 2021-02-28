@@ -1,8 +1,8 @@
  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC6kHTx_z0XmU9TFKqzvJ9TQ)](https://www.youtube.com/c/todaycode)   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/todaycode)](https://www.facebook.com/todaycode)
 
 #### 🌱 인프런 
-* [📊 공공데이터로 파이썬 데이터 분석 시작하기](https://bit.ly/inflearn-public-data-eda)
-* [📈 단 두 장의 문서로 데이터 분석과 시각화 뽀개기](https://bit.ly/inflearn-pandas-tutorial)
+* [📊 공공데이터로 파이썬 데이터 분석 시작하기](https://github.com/corazzon/open-data-analysis-basic)
+* [📈 단 두 장의 문서로 데이터 분석과 시각화 뽀개기](https://github.com/corazzon/cracking-the-pandas-cheat-sheet)
 * [📚 영화리뷰 감정 분석을 통한 파이썬 텍스트 분석과 자연어 처리](https://bit.ly/inflearn-nlp-tutorial)
 * [📑 캐글 설문조사로 데이터 분석 입문하기](http://bit.ly/inflearn-kaggle-survey-2020)
  
