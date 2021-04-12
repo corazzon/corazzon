@@ -20,9 +20,9 @@
 <a href="http://bit.ly/inflearn-kaggle-survey-2020" style="float:left"><img src="https://cdn.inflearn.com/public/courses/326366/cover/972de19c-79c3-4f2f-a4d4-472f301127f9" width=242></a>
 <a href="https://github.com/corazzon/cracking-the-pandas-cheat-sheet" style="float:left"><img src="https://cdn.inflearn.com/public/courses/324030/course_cover/159651c0-3994-463b-8ece-be3b4c52709c/pandas_bje.png" width=242></a>
 <a href="https://bit.ly/inflearn-nlp-tutorial" style="float:left"><img src="https://cdn.inflearn.com/wp-content/uploads/review_analysis.jpg" width=242></a>
+<a href="https://github.com/corazzon/kma-weather-python"><img src="https://i.imgur.com/r1PBGNm.png" width=242></a>
 <a href="https://github.com/corazzon/boostcourse-ds-510"><img src="https://i.imgur.com/WAF18lg.png" width=242></a>
 <a href="https://github.com/corazzon/boostcourse-ds-511"><img src="https://i.imgur.com/viyRb9a.png" width=242></a>
-<a href="https://github.com/corazzon/kma-weather-python"><img src="https://i.imgur.com/r1PBGNm.png" width=242></a>
 
 
 
