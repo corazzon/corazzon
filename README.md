@@ -13,7 +13,7 @@
 * [💻 프로젝트로 배우는 데이터사이언스(분류, 회귀)](https://github.com/corazzon/boostcourse-ds-511)
  
 #### 기상청 날씨마루
-* 🌦 [Python 교육 동영상](https://bd.kma.go.kr/kma2020/dta/edu/KBP57200_R_V.do?pageNum=5&menuCd=F040302000)
+* 🌦 [Python 교육 동영상](https://github.com/corazzon/kma-weather-python)
 
 #### 에듀캐스트
 * [텍스트 분석과 자연어 처리를 활용하여 IMDB 영화리뷰를 파이썬으로 분석하기](https://educast.com/course/data-science/LT91)
