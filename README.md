@@ -21,6 +21,10 @@
 #### 프로그래머스
 * [실습으로 배우는 데이터 사이언스](https://programmers.co.kr/learn/courses/21)
 
+#### 온오프라인 대면강의
+* [서울대학교 평생교육원 실전과정 예제로 풀어보는 데이터 분석](https://snui.snu.ac.kr/el/course/course_info_form.acl?COURSE_SEQ=269&LECTURE_SEQ=427)
+* [DT분야_파이썬을 활용한 데이터 분석 - 한국능률협회](http://www.kma.or.kr/usrs/eduRegMgnt/eduRegInfoDetailForm.do?p_usrid=&p_bbs_id=&p_pst_id=&p_edutype_cd=001&p_crscd=&p_crsseq_id=112879&p_month=&p_return=MENU&CRSCD=&CRSSEQ_ID=112879&p_hmpgcd=30&p_device=P&mkey=35497)
+
 <a href="https://github.com/corazzon/finance-data-analysis"><img src="https://cdn.inflearn.com/public/courses/326383/cover/4c038b06-8afa-4ae8-b14a-5ed22cfabce0/326383-eng.png" width=242></a>
 <a href="https://github.com/corazzon/open-data-analysis-basic"><img src="https://cdn.inflearn.com/public/courses/286688/course_cover/b08e32cb-597e-4af8-9f13-fd4b0562e4fb/pje-public-data-analysis-eng-2.png" width=242></a>
 <a href="http://bit.ly/inflearn-kaggle-survey-2020" style="float:left"><img src="https://cdn.inflearn.com/public/courses/326366/cover/972de19c-79c3-4f2f-a4d4-472f301127f9" width=242></a>
