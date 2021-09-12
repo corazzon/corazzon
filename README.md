@@ -9,6 +9,7 @@
 * [📑 캐글 설문조사로 데이터 분석 입문하기](http://bit.ly/inflearn-kaggle-survey-2020)
  
 #### 네이버 커넥트 부스트코스
+* [🐍 모두를 위한 데이터 사이언스(파이썬 기초, EDA)](https://github.com/corazzon/boostcourse-ds-basic)
 * [⚡️ 파이썬으로 시작하는 데이터 사이언스(분석, 시각화)](https://github.com/corazzon/boostcourse-ds-510)
 * [💻 프로젝트로 배우는 데이터사이언스(분류, 회귀)](https://github.com/corazzon/boostcourse-ds-511)
  
