@@ -18,10 +18,10 @@
 * 🌤 [합성곱 신경망 날씨 이미지 분류](https://github.com/corazzon/kma-weather-image)
 
 #### 에듀캐스트
-* [텍스트 분석과 자연어 처리를 활용하여 IMDB 영화리뷰를 파이썬으로 분석하기](https://educast.com/course/data-science/LT91)
+* [(종료)텍스트 분석과 자연어 처리를 활용하여 IMDB 영화리뷰를 파이썬으로 분석하기](https://educast.com/course/data-science/LT91)
 
 #### 프로그래머스
-* [실습으로 배우는 데이터 사이언스](https://programmers.co.kr/learn/courses/21)
+* [(종료)실습으로 배우는 데이터 사이언스](https://programmers.co.kr/learn/courses/21)
 
 #### 온오프라인 실시간 강의
 * [서울대학교 평생교육원 실전과정 예제로 풀어보는 데이터 분석](https://snui.snu.ac.kr/el/course/course_info_form.acl?COURSE_SEQ=269&LECTURE_SEQ=427)
