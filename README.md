@@ -1,5 +1,9 @@
  [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC6kHTx_z0XmU9TFKqzvJ9TQ)](https://www.youtube.com/c/todaycode)   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/todaycode)](https://www.facebook.com/todaycode)
 
+#### 📚 도서
+* [NLP와 LLM 실전 가이드(한빛미디어)](https://github.com/corazzon/Mastering-NLP-from-Foundations-to-LLMs)
+* [모두의 한국어 텍스트 분석 with 파이썬(길벗)](https://github.com/pytextbook/pytextbook)
+
 #### 🌱 인프런 
 
 * [📚 모두의 한국어 텍스트 분석과 자연어처리 with 파이썬](https://github.com/corazzon/python-text-analysis)
