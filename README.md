@@ -1,4 +1,5 @@
- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC6kHTx_z0XmU9TFKqzvJ9TQ)](https://www.youtube.com/c/todaycode)   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/todaycode)](https://www.facebook.com/todaycode)
+ [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UC6kHTx_z0XmU9TFKqzvJ9TQ)](https://www.youtube.com/c/todaycode)   [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/todaycode)](https://www.facebook.com/todaycode) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/todaycode/)](https://www.linkedin.com/in/todaycode/)
+
 
 #### 📚 도서
 * [NLP와 LLM 실전 가이드(한빛미디어)](https://github.com/corazzon/Mastering-NLP-from-Foundations-to-LLMs)
