@@ -2,6 +2,7 @@
 
 
 #### 📚 도서
+* [실무로 통하는 LLM 어플리케이션 설계(한빛미디어)](https://github.com/corazzon/designing-llm-apps)
 * [NLP와 LLM 실전 가이드(한빛미디어)](https://github.com/corazzon/Mastering-NLP-from-Foundations-to-LLMs)
 * [모두의 한국어 텍스트 분석 with 파이썬(길벗)](https://github.com/pytextbook/pytextbook)
 
